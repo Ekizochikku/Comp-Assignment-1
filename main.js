@@ -57,7 +57,7 @@ Background.prototype.update = function () {
 };
 
 function Gloria(game, spriteSheet) {
-	this.animation = new Animation(spriteSheet, 112, 900, 9, 0.2, 9, true, 0.5);
+	this.animation = new Animation(spriteSheet, 112, 900, 9, 0.1, 9, true, 0.5);
 	this.speed = 150;
 	this.ctx = game.ctx;
 	Entity.call(this, game, 0, 100);
