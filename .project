@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>index.html</name>
-			<type>1</type>
-			<location>C:/Users/Brian/Downloads/Assignment 1/index.html</location>
-		</link>
-	</linkedResources>
 </projectDescription>
